@@ -1,0 +1,12 @@
+Flask
+folium
+osmnx
+networkx
+pandas
+geopy
+scikit-learn
+matplotlib
+seaborn
+geopandas
+wordcloud
+
